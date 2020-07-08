@@ -16,4 +16,4 @@ This project was done by:
 
   . RANDRIATAHINA Andry Heritiana  (arandriatahina@aimsammi.org)
   
-  . RAMANDIAMANANA Haingoharijaona Faniriniaina (hramandiamanana@aimsammi.org)
+  . RAMANDIAMANANA Haingoharijao Faniriniaina (hramandiamanana@aimsammi.org)
