@@ -10,7 +10,7 @@ The sensitivity of the microphones of the devices reduced the quality of the aud
 
 NOTE: This data cannot be used in any circumstance except for the purpose of this project [AMMI-SR 2019-2020](https://github.com/besacier/AMMIcourse/) or upon request.
 
-# Contribution
+# Collaborators
 
 This project was done by:
 
