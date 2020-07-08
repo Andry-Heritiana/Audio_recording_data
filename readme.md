@@ -7,7 +7,8 @@ This data collection was made possible thanks to the application [Lig-Aikuma](ht
 NOTE: This data cannot be used in any circumstance except for the purpose of this project [AMMI-SR 2019-2020](https://github.com/besacier/AMMIcourse/) or upon request.
 
 # Contribution
-This project was done by:\\
+This project was done by:
 
-  . RANDRIATAHINA Andry Heritiana  (arandriatahina@aimsammi.org)\\
+  . RANDRIATAHINA Andry Heritiana  (arandriatahina@aimsammi.org)
+  
   . RAMANDIAMANANA Haingoharijaona Faniriniaina (hramandiamanana@aimsammi.org)
