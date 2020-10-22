@@ -1,6 +1,6 @@
 # Speech Recognition project: data collection for the Malagasy language
 
-This data contains the audio recording of about 04h20mn in Malagasy language, the official language of Madagascar. It is divided into 23 parts (sessions) which contains each around 50 up to 200 sentences. Two native Malagasy contributed to achieve this collection task and the read text were provided from [Wikipedia](https://mg.wikipedia.org/wiki/Wikipedia:Fandraisana) and the Catechism of the Catholic church in Madagascar [Katesizy](https://katolika.org/downloads/document/get/katesizy.pdf). The devices used were two Android phones (HUAWEI-DUB-LX2, TCL-5058I).
+This data contains the audio recording of about 04h20mn in Malagasy language, the official language of Madagascar. It is divided into 23 parts (sessions) which contains each around 50 up to 200 sentences. Two native Malagasy contributed to achieve this collection task and the read text were provided from [Wikipedia](https://mg.wikipedia.org/wiki/Wikipedia:Fandraisana) and the Catechism of the Catholic church in Madagascar [Katesizy](https://katolika.org/downloads/document/get/katesizy.pdf). The devices used were two (2) Android phones (HUAWEI-DUB-LX2, TCL-5058I).
 
 This data collection was made possible thanks to the application [Lig-Aikuma](https://hal.archives-ouvertes.fr/hal-02264418/document), a recording application built by PhD students in France (version 3.1.0). This application automatically creates aligned text and audio data which will be used for training. 
 
